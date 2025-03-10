@@ -19,5 +19,5 @@ bun run index.ts [options]
 | ------ | ------------ | ---------------------------------------------------------- |
 | Period | --period     | '7day', '1month', '3month', '6month', '12month', 'overall' |
 | Grid Size | --gridSize     | 2..10 |
-| Username | --username     | <string> |
+| Username | --username     | [string] |
 | Output | --output     | Optional, if not specified, the root of the project |
