@@ -7,6 +7,8 @@ A somewhat recent version of Bun
 
 # Usage
 
+Create a `.env` file with a `LASTFM_API_KEY` entry with a valid LastFM API Key, and then run:
+
 ```
 bun install
 
